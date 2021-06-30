@@ -1,0 +1,33 @@
+.landingPageContainer {
+  height: calc(100vh - 3rem);
+  margin: 0 auto;
+  max-width: 850px;
+}
+
+.landingPageContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  span {
+    text-align: center;
+    color: var(--pink-500);
+    font-weight: medium;
+    max-width: 23rem;
+    font-size: 3.5rem;
+  }
+  img {
+    height: 25rem;
+  }
+}
+@media (max-width: 660px) {
+  .landingPageContent {
+    flex-direction: column;
+    align-items: center;
+
+    > span {
+      margin-top: 3rem;
+      font-size: 2.5rem;
+    }
+  }
+}

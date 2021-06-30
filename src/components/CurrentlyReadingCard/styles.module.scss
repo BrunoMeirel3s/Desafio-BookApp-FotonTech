@@ -1,0 +1,71 @@
+.cardCurrentlyReading {
+  overflow: hidden;
+  margin-left: -1.1rem;
+  background: #eef5db;
+  max-width: 24rem;
+  height: 7rem;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+
+  .currentlyBookImage {
+    margin-left: 1.2rem;
+    margin-right: 0.6rem;
+    z-index: 2;
+    position: absolute;
+    img {
+      width: 5.7rem;
+    }
+  }
+
+  .currentlyReadingInfos {
+    color: var(--gray-600);
+    margin-left: 7.6rem;
+    h2 {
+      color: var(--gray-400);
+      margin-bottom: 0.5rem;
+      font-size: 1.2rem;
+    }
+    h3 {
+      color: var(--gray-300);
+      font-weight: normal;
+      font-size: 0.8rem;
+      margin-bottom: 0.4rem;
+    }
+    h4 {
+      font-size: 0.8rem;
+      display: flex;
+      align-items: center;
+      font-weight: 50;
+
+      span {
+        margin: 0 0.2rem;
+        color: red;
+      }
+    }
+  }
+
+  .decorationImages {
+    position: relative;
+    top: -0.2rem;
+    right: -0.2rem;
+    span {
+      position: relative;
+      top: -2rem;
+      right: -1.4rem;
+    }
+
+    span + span {
+      position: absolute;
+      top: 3rem;
+      right: -1.4rem;
+    }
+
+    span + span + span {
+      position: absolute;
+
+      top: -1.9rem;
+      right: 2.5rem;
+    }
+  }
+}

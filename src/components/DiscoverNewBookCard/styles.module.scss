@@ -1,0 +1,55 @@
+.bookCard {
+  overflow: hidden;
+  position: relative;
+  background: #00173d;
+  width: 18rem;
+  min-width: 18rem;
+  height: 8.7rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .ovalImage {
+    position: relative;
+    top: 2rem;
+  }
+
+  .bookInfos {
+    position: relative;
+    z-index: 2;
+    margin-left: -4rem;
+    padding: 1rem;
+    color: var(--gray-100);
+
+    h2 {
+      font-size: 0.9rem;
+      color: var(--white);
+      margin-bottom: 1rem;
+    }
+    h3 {
+      font-weight: 100;
+      font-size: 0.8rem;
+      font-style: italic;
+      margin-bottom: 0.5rem;
+    }
+    h4 {
+      font-size: 0.6rem;
+      font-weight: 100;
+      display: flex;
+      align-items: center;
+
+      > span {
+        margin: 0 0.19rem;
+      }
+    }
+  }
+
+  .bookImage {
+    margin-right: 1.2rem;
+    img {
+      width: 4.5rem;
+    }
+  }
+}
