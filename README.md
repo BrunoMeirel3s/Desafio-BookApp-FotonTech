@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 BookApp foi desenvolvido para ajudar usuários da plataforma Google Books a ter uma melhor experiência ao pesquisar e conhecer novos conteúdos, apesar de possuir um conceito simples durante o desenvolvimento do mesmo formam utilizadas tecnologias recentes.
 </p>
 <div style="align-items: center;">
-<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/1.PNG" width="100%" max-width= "50px" height="auto"></img>
+<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/1.PNG" width="100px"  height="auto"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/2.PNG"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/3.PNG"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/4.PNG"></img>
