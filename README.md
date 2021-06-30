@@ -17,9 +17,9 @@ BookApp foi desenvolvido para ajudar usuários da plataforma Google Books a ter 
 </p>
 <div style="align-items: center;">
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/1.PNG" width="220px"  height="auto"></img>
-<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/2.PNG"></img>
-<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/3.PNG"></img>
-<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/4.PNG"></img>
+<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/2.PNG" width="220px"  height="auto"></img>
+<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/3.PNG" width="220px"  height="auto"></img>
+<img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/4.PNG" width="220px"  height="auto"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/5.PNG"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/6.PNG"></img>
 <img src="https://github.com/BrunoMeirel3s/Desafio-BookApp-FotonTech/blob/main/public/screenshots/7.PNG"></img>
